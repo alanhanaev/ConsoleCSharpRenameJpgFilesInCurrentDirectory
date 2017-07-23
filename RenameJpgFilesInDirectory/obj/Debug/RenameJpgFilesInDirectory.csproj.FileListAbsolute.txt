@@ -1,0 +1,12 @@
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.exe.config
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.exe
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.pdb
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.csprojResolveAssemblyReference.cache
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.exe
+c:\users\hanik\documents\visual studio 2017\Projects\RenameJpgFilesInDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.pdb
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.exe.config
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.exe
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\bin\Debug\RenameJpgFilesInDirectory.pdb
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.csprojResolveAssemblyReference.cache
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.exe
+C:\Repos\ConsoleCSharpRenameJpgFilesInCurrentDirectory\RenameJpgFilesInDirectory\obj\Debug\RenameJpgFilesInDirectory.pdb
