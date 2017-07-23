@@ -44,21 +44,27 @@ namespace RenameJpgFilesInDirectory
         // Define the event handlers.
         private static void OnChanged(object source, FileSystemEventArgs e)
         {
-            Boolean flag = false;
-            while (flag == false)
+            string newFileName = Guid.NewGuid().ToString() + ".jpg";
+
+            bool flag = true;
+            while (flag)
             {
-                try
-                {
-                    string newFileName = Guid.NewGuid().ToString() + ".jpg";
-                    System.IO.File.Move(e.Name, newFileName);
-                    flag = true;
-                }
-                catch (ArgumentException e2)
-                {
-                    Console.WriteLine("Error");
-                }
+                flag = IsLocked(e.Name);
+                if (! flag)
+                System.IO.File.Move(e.Name, newFileName);
+            }
+        }
+
+        public static bool IsLocked(string fpath)
+        {
+            try
+            {
+                FileStream fs = File.OpenWrite(fpath);
+                fs.Close();
+                return false;
             }
 
+            catch (Exception) { return true; }
         }
     }
 }
